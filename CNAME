@@ -1,1 +1,6 @@
-nirvy15.com
+$ dig www.walkingwiththecheese.com +nostats +nocomments +nocmd
+    > ;www.walkingwiththecheese.com.                     IN      A
+    > www.walkingwiththecheese.com.              3592    IN      CNAME   Nirvy15.github.io.
+    > Nirvy15.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+    
